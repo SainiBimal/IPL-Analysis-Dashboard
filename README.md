@@ -8,6 +8,13 @@ This repository presents an in-depth **data analysis and visualization** of Indi
 📊 **Dashboard Overview**  
 The IPL Dashboard is an interactive and visual analytics solution built using Power BI, focused on analyzing IPL match performance, player statistics, team success rates, and scoring patterns across multiple seasons.  
 
+![IPL Dashboard Team](https://github.com/user-attachments/assets/671a82d9-2b11-4c41-9621-6913349c3720)
+
+
+![IPL Dashboard Player](https://github.com/user-attachments/assets/fd22eff4-38aa-4a84-b8f4-1f49511b0e68)
+
+
+
 ---
 
 ## 🔹 Key Features
@@ -34,15 +41,6 @@ The IPL Dashboard is an interactive and visual analytics solution built using Po
 
 ---
 
-## 📊 Sample Dashboards  
-
-### Dashboard using Power BI  
-![IPL PowerBI](https://github.com/user-attachments/assets/eca3b9c3-b446-4447-a38a-d61f5572a712)  
-
-### Dashboard using Excel  
-![IPL Excel](https://github.com/user-attachments/assets/f7cc0949-4581-4cb3-b3ab-ea9242bce803)  
-
----
 
 ## 🧠 Key Insights & Trends  
 
